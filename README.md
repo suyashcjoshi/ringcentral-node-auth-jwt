@@ -1,6 +1,6 @@
-# Node.JS Server App using RingCentral SDK
+# Node.JS Server App demonstrating RingCentral JWT Login Flow
 
-Authentication Demo for RingCentral App using JWT Auth Flow. For more information please refer this guide: https://developers.ringcentral.com/guide/authentication
+Authentication Demo for RingCentral App using JWT Auth Flow and RingCentral's [Node.js SDK](https://www.npmjs.com/package/@ringcentral/sdk). For more information please refer this guide: https://developers.ringcentral.com/guide/authentication
 
 ![alt text](https://netstorage.ringcentral.com/dpw/guide/images/oauth-password-flow.png?v=2022-03-04![image](https://user-images.githubusercontent.com/395039/160492127-9ee3b298-e1aa-43c8-88ac-5fd581596d5a.png)
 )
