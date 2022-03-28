@@ -11,12 +11,11 @@ Authentication Demo for RingCentral App using JWT Auth Flow. For more informatio
 - Follow this guide to create your JWT Credential : https://developers.ringcentral.com/guide/authentication/jwt/create-jwt
 - Make sure the application has the ReadAccounts, ReadCallLog permissions.
 
-## Clone & Configure project 
+## Download & Configure project 
 
+- ```$ git clone <this project>```
 - ```$ npm install```
-- Open .env file and update it with your sandbox application credentials (RC_CLIENT_ID, RC_CLIENT_SECRET)
-- Set RC_REDIRECT_URL to 'http://localhost:5000/oauth2callback', make sure that is also the `OAuth Redirect URI` in your application settings
-
+- Open .env file and update it with your sandbox application credentials (RC_CLIENT_ID, RC_CLIENT_SECRET & RC_JWT)
 
 ## Run the demo
 
