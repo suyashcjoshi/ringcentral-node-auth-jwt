@@ -15,7 +15,7 @@ Authentication Demo for RingCentral App using JWT Auth Flow. For more informatio
 
 - ```$ git clone <this project>```
 - ```$ npm install```
-- Open .env file and update it with your sandbox application credentials (RC_CLIENT_ID, RC_CLIENT_SECRET & RC_JWT)
+- Open .env file and update it with your sandbox application credentials for RC_CLIENT_ID, RC_CLIENT_SECRET & RC_JWT values.
 
 ## Run the demo
 
